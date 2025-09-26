@@ -19,8 +19,8 @@ PHP
 
 Laravel 12
 
-MySQL (atau database lain yang kamu gunakan)
+MySQL (
 
 HTML, CSS, JavaScript
 
-Bootstrap (atau framework CSS lainnya yang kamu gunakan)
+Bootstrap
